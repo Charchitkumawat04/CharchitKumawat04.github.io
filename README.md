@@ -1,7 +1,7 @@
 # Personal Portfolio
 
-Simply,
-https://7mupbw-3000.preview.csb.app/
+Simply, <a href="https://7mupbw-3000.preview.csb.app/"> Visit site here </a>
+
 
 -> clone/fork the repo
 
